@@ -1515,7 +1515,7 @@ function AboutStatistics() {
     { value: 365, suffix: '', label: 'Days Open a Year' },
     { value: 1, suffix: 'L+', label: 'Happy Smiles Treated' },
     { value: 2, suffix: '', label: 'Prime Locations' },
-    { value: 0, suffix: '', label: 'Specialist', text: 'MDS' },
+    { value: 0, suffix: '', label: 'Specialists', text: 'MDS' },
   ];
 
   return (

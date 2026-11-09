@@ -22,10 +22,10 @@ const facilityPhotos = [
     src: '/images/slides/image copy 5.png',
     alt: 'Keerti Cure Dental clinic treatment room',
   },
-  {
-    src: '/images/slides/5.jpg.jpeg',
-    alt: 'Invisalign clear aligner care',
-  },
+  // {
+  //   src: '/images/slides/5.jpg.jpeg',
+  //   alt: 'Invisalign clear aligner care',
+  // },
 ];
 
 const facilityStyles = `
